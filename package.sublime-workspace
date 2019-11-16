@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"validtransa",
+				"validTransactionDataMock"
+			],
+			[
+				"true",
+				"trueBalance"
+			],
+			[
+				"reward",
+				"rewardTransaction"
+			],
+			[
+				"valid",
+				"validTransactionData"
+			],
+			[
+				"calc",
+				"calculateBalance"
+			],
+			[
+				"calcul",
+				"calculateBalanceMock"
+			],
+			[
+				"transac",
+				"transactionPool"
+			],
+			[
+				"expec",
+				"expectedTransaction"
+			],
+			[
+				"MIN",
+				"MINING_REWARD"
+			],
+			[
+				"word",
+				"wordNum"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"blck",
+				"blockchain"
+			],
+			[
+				"exist",
+				"existingTransaction"
+			],
+			[
+				"sender",
+				"senderWallet"
+			],
+			[
+				"next",
+				"nextAmount"
+			],
+			[
+				"origina",
+				"originalSenderOutput"
+			],
+			[
+				"create",
+				"createTransaction"
+			],
+			[
+				"verif",
+				"verifySignature"
+			],
+			[
+				"sub",
+				"subscriber"
+			],
+			[
+				"Cha",
+				"CHANNELS"
+			],
+			[
+				"Min",
+				"MINE_RATE"
+			],
+			[
+				"chain",
+				"chain"
+			],
+			[
+				"openin",
+				"openingTimeSchema"
+			],
+			[
+				"co",
+				"coords"
+			],
+			[
+				"app",
+				"app_server"
+			],
+			[
+				"Ge",
+				"GENESIS_DATA"
+			],
+			[
+				"gene",
+				"genesisBlock"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"rot",
+				"rotate()\ttransform"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"ani",
+				"animation-duration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/package.json",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/app/pubsub.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/index.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain/index.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain/index.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/index.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/index.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/app/transaction-miner.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/transaction.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/config.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/transaction.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/transaction-pool.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/wallet/transaction-pool.test.js",
+		"/Users/mitchellthomas/Desktop/instant_estimate.js",
+		"/Users/mitchellthomas/Downloads/site_11:19/css/fontstyle.css",
+		"/Users/mitchellthomas/Downloads/site_11:19/css/style2.css",
+		"/Users/mitchellthomas/Desktop/Blacsand_super_minimal/index.html",
+		"/Users/mitchellthomas/Desktop/style.css",
+		"/Users/mitchellthomas/Desktop/index.html",
+		"/Users/mitchellthomas/Desktop/app.js",
+		"/Users/mitchellthomas/Desktop/translation_test.html",
+		"/Users/mitchellthomas/Desktop/script.js",
+		"/Users/mitchellthomas/Desktop/data.js",
+		"/Users/mitchellthomas/Documents/SCHOOL/bio_info_algo/reference.py",
+		"/Users/mitchellthomas/Documents/SCHOOL/bio_info_algo/lab6.py",
+		"/Users/mitchellthomas/Documents/SCHOOL/bio_info_algo/lab7.py",
+		"/Users/mitchellthomas/Documents/WORK/BLACSAND/LGO Translations/instantQuote.js",
+		"/Users/mitchellthomas/Documents/WORK/BLACSAND/LGO Translations/test.js",
+		"/Users/mitchellthomas/Downloads/InClassWeek5Fa19Application1/app/src/main/java/com/example/inclassweek5fa19application1/PortraitFragment.java",
+		"/Users/mitchellthomas/Downloads/InClassWeek5Fa19Application1/app/src/main/java/com/example/inclassweek5fa19application1/MainActivity.java",
+		"/Users/mitchellthomas/Downloads/InClassWeek5Fa19Application1/app/src/main/java/com/example/inclassweek5fa19application1/LandscapeFragment.java",
+		"/Users/mitchellthomas/Downloads/webfontkit-20190930-225945/stylesheet.css",
+		"/Users/mitchellthomas/Desktop/BLACSAND2/fullPageScrollPureJS-master/app/assets/javascript/full-page-scroll.js",
+		"/Users/mitchellthomas/Desktop/BLACSAND2/fullPageScrollPureJS-master/app/index.html",
+		"/Users/mitchellthomas/Desktop/BLACSAND2/fullPageScrollPureJS-master/app/assets/stylesheet/full-page-scroll.css",
+		"/Users/mitchellthomas/Desktop/BLACSAND2/index.html",
+		"/Users/mitchellthomas/Downloads/InClassWeek4Fa19Application1 2/app/src/main/res/layout/item_layout.xml",
+		"/Users/mitchellthomas/Downloads/InClassWeek4Fa19Application1/app/src/main/java/com/example/inclassweek4fa19application1/MainActivity.java",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SITE/stylesheet.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SITE/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SITE/style.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/weed_proj/css/style.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/weed_proj/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/weed_proj/js/index.js",
+		"/Users/mitchellthomas/Downloads/webfontkit-20190915-234852/stylesheet.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SITE/js/main.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/css/style2.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/util/crypto-hash.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/util/crypto-hash.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain/block.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain/block.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/util/index.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/scripts/average-work.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/pubsub.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/crypto-hash.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/crypto-hash.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/blockchain.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/block.test.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/average-work.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/cryptochain/block.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/locations-list.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/controllers/locations.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/models/locations.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/models/db.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/location-info.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/MEAN_src_chap_4/gettingMean-2/app_server/controllers/others.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/MEAN_src_chap_4/gettingMean-2/app_server/controllers/locations.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/controllers/others.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/MEAN_src_chap_4/gettingMean-2/app_server/views/locations-list.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/layout.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/film studio/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/film studio/css/style.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/film studio/js/script.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/location-review-form.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/routes/index.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/generic-text.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/controllers/main.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/loc8tr/app_server/views/index.pug",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/portfoliomt/css/fontstyle.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/portfoliomt/js/script.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/portfoliomt/css/style.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/portfoliomt/index.html",
+		"/Users/mitchellthomas/Downloads/elements-pallas-creative-multi-purpose-wordpress-theme-CSG348X-2018-11-09/pallas/index.php",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/promo vid asset builder/css/style2.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/promo vid asset builder/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/js/script.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/js/app.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/css/index.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage 2/buildings-index.html",
+		"/Users/mitchellthomas/Downloads/devstage 2/js/script.js",
+		"/Users/mitchellthomas/Downloads/devstage 2/js/scripto.js",
+		"/Users/mitchellthomas/Downloads/devstage 2/css/style2.css",
+		"/Users/mitchellthomas/Downloads/devstage 2/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/css/style2.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/index4.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/index.html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SOUTH SKULL/index.html",
+		"/Users/mitchellthomas/Documents/import.csv",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/js/script.js",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/css/style4.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/css/theme.css",
+		"/Users/mitchellthomas/Desktop/import.csv",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/SOUTH SKULL/css/style.css",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/index[design2].html",
+		"/Users/mitchellthomas/Documents/DEVELOPMENT/devstage/css/style.css",
+		"/Users/mitchellthomas/Desktop/privacy policy.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 210.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
