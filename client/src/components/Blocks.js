@@ -33,7 +33,7 @@ class Blocks extends Component {
 				<br />
 
 			<div>
-				<Link to='/'>Homedd</Link>
+				<Link to='/'>Home</Link>
 			</div>
 
 
