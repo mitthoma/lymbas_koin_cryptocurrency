@@ -1,12 +1,19 @@
 import React, { Component } from 'react';
-
 import { FormGroup, FormControl, Button } from 'react-bootstrap';
 import history from '../history';
 import { Link } from 'react-router-dom';
+import logo from '../assets/lk3.PNG';
+
 
 class ConductTransaction extends Component {
 
-	state = { recipient: '', amount: 0 };
+	state = { recipient: '', amount: 0, knownAddresses: [] };
+
+	componentDidMount() {
+		fetch(`${document.location.origin}/api/known-addresses`)
+		.then(response => response.json())
+		.then(json => this.setState({ knownAddresses: json }));
+	}
 
 	updateRecipient = event => {
 		this.setState({ recipient: event.target.value });
@@ -35,10 +42,33 @@ class ConductTransaction extends Component {
 
 
 		return (
+
+			
+
 			<div className='ConductTransaction'>
 
+			<img className='logo' src={logo}></img>
+				<br />
+
 				<Link to='/'>Home</Link>
+
 				<h3>conduct a transaction</h3>
+				<br />
+
+				<h4>Known Addresses</h4>
+				{
+					this.state.knownAddresses.map(knownAddress => {
+						return (
+							<div key={knownAddress}>
+
+								<div>{knownAddress}</div>
+								<br />
+							</div>
+
+						);
+					})
+				}
+				<br />
 				<FormGroup>
 					<FormControl
 						input='text'

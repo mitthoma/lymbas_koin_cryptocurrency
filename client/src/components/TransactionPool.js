@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Transaction from './Transaction';
+import logo from '../assets/lk3.PNG';
 import { Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import history from '../history';
@@ -44,6 +45,8 @@ class TransactionPool extends Component {
 	render() {
 		return(
 			<div className='TransactionPool'>
+			<img className='logo' src={logo}></img>
+				<br />
 			<div><Link to='/'>Home</Link></div>
 			<h3>Transaction Pool</h3>
 			{

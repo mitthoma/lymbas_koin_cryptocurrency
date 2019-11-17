@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.PNG';
+import logo from '../assets/lk3.PNG';
 
 class App extends Component {
 	state = {
