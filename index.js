@@ -209,6 +209,7 @@ const PORT = process.env.PORT || PEER_PORT || DEFAULT_PORT;
 app.listen(PORT, () => {
 	console.log(`Listening at localhost:${PORT}`)
 
+	console.log("I'm getting here instead.")
 	if(PORT != DEFAULT_PORT) {
 		console.log("I'm getting here.")
 		syncWithRootState();
