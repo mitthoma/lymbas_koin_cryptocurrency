@@ -210,6 +210,7 @@ app.listen(PORT, () => {
 	console.log(`Listening at localhost:${PORT}`)
 
 	if(PORT != DEFAULT_PORT) {
+		console.log("I'm getting here.")
 		syncWithRootState();
 
 	}
